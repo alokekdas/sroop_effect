@@ -1,4 +1,4 @@
-# sroop_effect
+# stroop_effect
 Statistical hypothesis test for the Stroop Effect based on a sample dataset
 
 In psychology, the Stroop effect is a demonstration of interference in the 
